@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Q81NCSJqgX5VjK6yP5/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="./image.png" alt="Coding GIF" width="400"/>
   <h1>Hey there, I'm Mario 👋</h1>
 </div>
 
