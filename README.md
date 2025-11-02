@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image.png" alt="Coding GIF" width="400"/>
+  <img src="./image.jpg" alt="Coding GIF" width="400"/>
   <h1>Hey there, I'm Mario 👋</h1>
 </div>
 
