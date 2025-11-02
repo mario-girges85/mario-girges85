@@ -9,7 +9,7 @@
 
 I'm a passionate **Computer Science student** at Fayoum University , diving deep into the world of software development. My primary focus is on building robust and efficient systems, driven by a curiosity for how things work under the hood. I am currently looking for opportunities to apply my academic knowledge in a real-world setting.
 
-* 🔭 **I’m currently working as a freelancer
+* 🔭 **I’m currently working as a freelancer**
 * 🌱 **I’m currently learning:**  advanced Data Structures and Algorithms
 * 👯 **I’m looking to collaborate on:** Open-source projects related to **[e.g., Python, Machine Learning, or Web Development]**.
 * 💬 **Ask me about: **web development**
