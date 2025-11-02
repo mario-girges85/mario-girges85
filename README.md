@@ -26,27 +26,3 @@ I'm a passionate **Computer Science student** at **Fayoum University **, diving 
 | **Frameworks/Tools** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C88?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
 
----
-
-### 🔥 My GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mario's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Mario's Top Languages" />
-  
-</div>
-
----
-
-### 🔗 Connect with me
-
-[<img align="left" alt="Mario's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]([Your LinkedIn Profile URL])
-[<img align="left" alt="Mario's Portfolio/Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />]([Your Personal Website/Portfolio URL])
-[<img align="left" alt="Mario's Twitter/X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />]([Your Twitter/X URL])
-
-<br clear="left"/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet" alt="Profile views counter" />
-</div>
